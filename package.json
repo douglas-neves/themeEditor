@@ -17,7 +17,7 @@
     "postinstall": "husky install"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^1.13.5",
     "core-js": "^3.6.5",
     "module-alias": "^2.2.2",
     "vue": "^3.0.0",
